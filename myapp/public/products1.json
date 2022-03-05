@@ -1,0 +1,56 @@
+[{
+    "id" : "1",
+    "name" : "Hamam",
+    "image" : "https://th.bing.com/th/id/OIP.IapzaQunKWnmwJcgwUOpfgHaHa?w=200&h=200&c=7&r=0&o=5&dpr=1.25&pid=1.7",
+    "price" :"Rs.30"
+
+},
+{
+    "id" : "2",
+    "name" : "Lux",
+    "image" : "https://th.bing.com/th/id/OIP.Z844bbKj_v_YJKjPbipjPwHaHa?pid=ImgDet&rs=1",
+    "price" :"Rs.35"
+
+},
+
+
+{
+    "id" : "3",
+    "name" : "Mysore Sandal Soap",
+    "image" : "https://www.bmartt.com/wp-content/uploads/2020/11/Mysore-sandal-soap-768x768.jpg",
+    "price" :"Rs.50"
+
+},
+{
+    "id" : "2",
+    "name" : "Lux",
+    "image" : "https://th.bing.com/th/id/OIP.Z844bbKj_v_YJKjPbipjPwHaHa?pid=ImgDet&rs=1",
+    "price" :"Rs.35"
+
+},
+
+
+{
+    "id" : "3",
+    "name" : "Mysore Sandal Soap",
+    "image" : "https://www.bmartt.com/wp-content/uploads/2020/11/Mysore-sandal-soap-768x768.jpg",
+    "price" :"Rs.50"
+
+},
+
+{
+    "id" : "4",
+    "name" : "Cinthol",
+    "image" : "https://n4.sdlcdn.com/imgs/e/q/m/limesoap-a4559.jpg",
+    "price" :"Rs.40"
+
+},
+
+{
+    "id" : "5",
+    "name" : "Dove",
+    "image" : "https://th.bing.com/th/id/OIP.sSfizKsxUwQAAxTILwKzPAHaHa?pid=ImgDet&rs=1",
+    "price" :"Rs48"
+
+}
+]

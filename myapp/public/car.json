@@ -1,0 +1,32 @@
+[{
+    
+    
+        "id": "1",
+        "name": "Tiago",
+        "image":"https://th.bing.com/th/id/OIP._IzwnWAQEYUoxoslXzXv_QHaE6?pid=ImgDet&rs=1",
+        "price":"2 lakhs"
+    },
+
+{
+        "id" : "2",
+        "name": "SUV",
+        "image" : "https://www.spare-wheel.com/sites/default/files/media/Ford-Kuga-Hybrid-SUV-2020-car-5.jpg",
+        "price" : "3 lakhs"
+},
+
+{
+        "id" : "3",
+        "name" : "Maruti",
+        "image" : "https://img.indianautosblog.com/2020/03/24/maruti-swift-front-three-quarters-left-side-4a8f.jpg",
+        "price" : "4 lakhs"
+},
+
+{ 
+        "id" : "4",
+        "name" : "Ertiga",
+        "image":"https://www.carscoops.com/wp-content/uploads/2018/04/suzuki-ertiga_web.jpg",
+        "price" :"5 lakhs"
+}
+
+    
+]

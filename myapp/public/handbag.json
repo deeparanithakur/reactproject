@@ -1,0 +1,42 @@
+[
+ {
+    "id" : "1",
+    "name" : "Caprese",
+    "image" : "https://i.pinimg.com/originals/f8/92/bc/f892bc831c13124e1093ffd764b715bb.jpg",
+    "price" : "Rs.1500"
+},
+{
+    "id" : "2",
+    "name" : "Bath n body works",
+    "image" : "https://i.ebayimg.com/images/g/kKcAAOSwvgVfG2je/s-l640.jpg",
+    "price" : "Rs.3000"
+},
+{
+    "id" : " 3",
+    "name" : "Prada",
+    "image": "https://cdna.lystit.com/photos/stefaniamode/128292-BROWN-60bea39f-.jpeg",
+    "price" : "Rs.5400"
+},
+
+{
+    "id": "4",
+    "name" :"Lavie",
+    "image":"https://th.bing.com/th/id/R.863121f7be2a8da8a9add5b6c1c967f2?rik=oI7sC146hxtzfQ&riu=http%3a%2f%2fassets.myntassets.com%2fh_1440%2cq_95%2cw_1080%2fv1%2fimage%2fstyle%2fproperties%2f724057%2fLavie-Women-Handbags_1_e6cd02a85e54ffc1e5828817591f2819.jpg&ehk=qfKwSDcQsWYk4CD3IdhJ4vvG5Il8sPYw%2b9OTobtgJsE%3d&risl=&pid=ImgRaw&r=0",
+    "price" :"Rs.3500"
+
+},
+{
+    "id" : "5",
+    "name" :"chanel",
+    "image":"https://th.bing.com/th/id/OIP.qGtMsu79y3DQNxsh_rC97AHaFS?pid=ImgDet&rs=1",
+    "price":"Rs.4000"
+},
+
+{
+    "id":" 6",
+    "name": "Tote",
+    "image":"https://th.bing.com/th/id/OIP.CGC52esQqdhYGMb3Mn4haAHaKM?pid=ImgDet&rs=1",
+    "price": "Rs.4100"
+}
+]
+

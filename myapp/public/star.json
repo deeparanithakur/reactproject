@@ -1,0 +1,29 @@
+[{ 
+    "id" : "1",
+    "name" : "Deepika Padukone",
+    "image" : "https://d.ibtimes.co.uk/en/full/1651019/deepika-padukone.jpg",
+    "price" : "100cr"
+},
+
+{
+    "id" : "2",
+    "name" : "Shilpa Shetty",
+    "image" : "https://superstarsbio.com/wp-content/uploads/2019/02/shilpa-shetty.jpg",
+    "price" : "80cr"
+},
+
+{
+    "id" : "3",
+    "name" : "Kajol",
+    "image" : "https://baggout.com/wp-content/uploads/2021/02/kajol-red-saree.jpg",
+    "price" : "75cr"
+},
+
+{
+    "id" : "4",
+    "name" :" Keerthi Suresh",
+    "image": "https://3.bp.blogspot.com/-VxOWaH8p-Uc/Wuk_Q1mFcqI/AAAAAAAAHkM/wzIXMiiQpZQxVvGW-h3U9uhYoQpfcEtggCLcBGAs/s1600/Keerthy-Suresh-Photos-At-Mahanati-Movie-Audio-Launch-2.jpg",
+    "price" : "70cr"
+}
+]
+
